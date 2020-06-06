@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "webpack"
+  },
+  "dependencies": {
+    "cfonts": "^2.8.2"
+  }
+}
